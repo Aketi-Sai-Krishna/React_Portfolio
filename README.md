@@ -44,24 +44,24 @@ The goal of this portfolio project is to build a polished personal brand website
 
 ### Folder Structure
 src/
-- App.js
+- `App.js`
 - `index.js`
 - `assets/`
 - `Components/`
-  - AboutContent.js
+  - `AboutContent.js`
   - `Footer.js`
   - `Heroimg.js`
   - `Heroimg2.js`
-  - Navbar.js
+  - `Navbar.js`
   - `contact.js`
-  - work.js
+  - `work.js`
   - `workcard.js`
   - `workcardData.js`
 - `routes/`
-  - Home.js
-  - Projects.js
-  - About.js
-  - Contact.js
+  - `Home.js`
+  - `Projects.js`
+  - `About.js`
+  - `Contact.js`
     
 ### Installation
 
